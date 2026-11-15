@@ -1,1 +1,1 @@
-example for conflict
+example for conflict : created a change in sentence in branch1
